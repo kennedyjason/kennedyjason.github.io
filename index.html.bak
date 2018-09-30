@@ -122,42 +122,175 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row4 bgded overlay" style="background-color:black;">
+<div class="wrapper bgded overlay light" style="background-image:url('images/demo/backgrounds/02.png');">
+  <div class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="group element">
+      <article class="one_third first"> 
+        <!-- ################################################################################################ -->
+        <img src="images/demo/390x260.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">Faucibus vestibulum</h6>
+          <p>Amet ultricies curabitur eget tempus urna ut porta leo ipsum aliquam maximus sagittis erat malesuada [&hellip;]</p>
+          <footer><a href="#">Read More</a></footer>
+        </div>
+        <!-- ################################################################################################ -->
+      </article>
+      <article class="one_third"> 
+        <!-- ################################################################################################ -->
+        <img src="images/demo/390x260.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">Metus blandit fringilla</h6>
+          <p>Lorem lacinia nec suspendisse lacinia sapien ac eros ornare consequat duis sit amet tortor sapien nam [&hellip;]</p>
+          <footer><a href="#">Read More</a></footer>
+        </div>
+        <!-- ################################################################################################ -->
+      </article>
+      <article class="one_third"> 
+        <!-- ################################################################################################ -->
+        <img src="images/demo/390x260.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">Sodales molestie sit</h6>
+          <p>Magna quis tempus tortor mattis ut vestibulum justo lorem viverra eget ipsum volutpat dapibus velit [&hellip;]</p>
+          <footer><a href="#">Read More</a></footer>
+        </div>
+        <!-- ################################################################################################ -->
+      </article>
+    </div>
+    <!-- ################################################################################################ -->
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/03.png')">
+  <div class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <section class="one_half first"> 
+      <!-- ################################################################################################ -->
+      <h2 class="heading">Vulputate velit vitae laoreet</h2>
+      <p>Mauris maximus venenatis mauris vitae ornare eros aliquam tincidunt vehicula porttitor varius nunc suspendisse.</p>
+      <ul class="nospace iconlist">
+        <li><a href="#"><i class="icon fa fa-language"></i></a>
+          <p class="heading">Euismod consectetur sapien</p>
+        </li>
+        <li><a href="#"><i class="icon fa fa-language"></i></a>
+          <p class="heading">Luctus ex tempor sit amet</p>
+        </li>
+        <li><a href="#"><i class="icon fa fa-language"></i></a>
+          <p class="heading">Et quam finibus facilisis</p>
+        </li>
+      </ul>
+      <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+      <!-- ################################################################################################ -->
+    </section>
+    <section class="one_half"> 
+      <!-- ################################################################################################ -->
+      <h2 class="heading">Faucibus velit integer sapien</h2>
+      <p>Turpis duis pretium nisl tortor a auctor orci tempor id nunc sed arcu lectus fusce at urna lacus curabitur.</p>
+      <div class="testimonial">
+        <figure class="clear"><img class="circle" src="images/demo/60x60.png" alt="">
+          <figcaption><strong>A.Doe</strong><br>
+            <em>Position, Company Name</em></figcaption>
+        </figure>
+        <blockquote>
+          <p>Justo nec justo tristique a lobortis sem viverra nulla quis molestie metus in egestas id orci ac pulvinar quis ultricies neque nulla iaculis dapibus quam nec pulvinar sapien feugiat non habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas duis.</p>
+          <p>Enim nibh rhoncus vitae mauris sed placerat porta nulla nunc quis pharetra orci nulla vel lectus et.</p>
+        </blockquote>
+      </div>
+      <footer><a class="btn" href="#">Read More &raquo;</a></footer>
+      <!-- ################################################################################################ -->
+    </section>
+  </div>
+  <!-- ################################################################################################ -->
+  <div class="clear"></div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle center">
+      <h6 class="heading">Interdum dapibus quisque</h6>
+      <p>Posuere odio mi eget suscipit odio aliquet quis nulla vehicula consectetur purus</p>
+    </div>
+    <div class="group element team btmspace-80">
+      <article class="one_quarter first"><img src="images/demo/320x320.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">A Smith</h6>
+          <em>Consectetur gravida</em>
+          <footer><a href="#">Full Profile</a></footer>
+        </div>
+      </article>
+      <article class="one_quarter"><img src="images/demo/320x320.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">B Smith</h6>
+          <em>Lorem laoreet vitae</em>
+          <footer><a href="#">Full Profile</a></footer>
+        </div>
+      </article>
+      <article class="one_quarter"><img src="images/demo/320x320.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">C Smith</h6>
+          <em>Phasellus ac nisi</em>
+          <footer><a href="#">Full Profile</a></footer>
+        </div>
+      </article>
+      <article class="one_quarter"><img src="images/demo/320x320.png" alt="">
+        <div class="txtwrap">
+          <h6 class="heading">D Smith</h6>
+          <em>Gravida ultrices sapien</em>
+          <footer><a href="#">Full Profile</a></footer>
+        </div>
+      </article>
+    </div>
+    <footer class="center"><a class="btn" href="#">View All The Team</a></footer>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4 bgded overlay" style="background-image:url('images/demo/backgrounds/04.png');">
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
-      <h3 class="heading">Jason Kennedy</h3>
+      <h3 class="heading">Preevent</h3>
       <ul class="nospace inline pushright uppercase">
         <li><a href="index.html"><i class="fa fa-lg fa-home"></i></a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
-	<li><a href="#">Portfolio</a></li>
-	<li><a href="https://www.github.com/kennedyjason">Github</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Cookies</a></li>
+        <li><a href="#">Disclaimer</a></li>
+        <li><a href="#">Online Shop</a></li>
         <li><a href="#">Sitemap</a></li>
       </ul>
       <hr>
     </div>
     <!-- ################################################################################################ -->
     <div class="one_quarter first">
-      <h6 class="heading">Summary</h6>
-      <p>My name is Jason Kennedy. I am a student at Appalachian State University, studying Computer Science.</p>
-      <p>I hope to graduate by December of 2019, however, I have recently begun to think about Graduate Studies.</p>
-      <p>I have a growing interest in Embedded Systems, and Operating Systems, and I hope to work in one of these areas preferrably a combination of the two.</p>
-      </div>
+      <h6 class="heading">Dictum aliquam</h6>
+      <p>At feugiat nunc donec a est et metus aliquam tristique aenean eu elit vitae lectus mollis justo donec luctus vehicula lacus non.</p>
+      <p>Pharetra tortor laoreet eget ut congue erat at neque dignissim suscipit pretium sem rhoncus aliquam tincidunt.</p>
+    </div>
     <div class="one_quarter">
-      <h6 class="heading">Contact Information</h6>
+      <h6 class="heading">Lacinia elementum</h6>
       <ul class="nospace linklist contact">
         <li><i class="fa fa-map-marker"></i>
           <address>
-          ASU Box 09725, Boone, 28608
+          Street Name &amp; Number, Town, Postcode/Zip
           </address>
         </li>
-        <!--<li><i class="fa fa-phone"></i> +00 (123) 456 7890<br>
-          +00 (123) 456 7890</li>-->
-       <!-- <li><i class="fa fa-fax"></i> +00 (123) 456 7890</li>-->
-        <li><i class="fa fa-envelope-o"></i> xaiban@live.com</li>
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890<br>
+          +00 (123) 456 7890</li>
+        <li><i class="fa fa-fax"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
       </ul>
-    <!--</div>
+    </div>
     <div class="one_quarter">
       <h6 class="heading">Vel diam tempor</h6>
       <ul class="nospace linklist">
@@ -196,7 +329,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">Jason Kennedy</a></p>
+    <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">Domain Name</a></p>
     <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
     <!-- ################################################################################################ -->
   </div>
